@@ -14,7 +14,7 @@
 
 I'm a passionate **Full Stack Developer** with a love for creating innovative digital solutions. From frontend magic to backend wizardry, I build applications that make a real impact! 🚀
 
-- 🌙⭐ **Moonstar Startup** - Frontend & Backend Developer
+- 🌙⭐ Contributor **Moonstar Startup** - Frontend & Backend Developer
 - 🏫 Currently working at **SMKN 1 Gunungputri** (Dec 2024 - Present)
 - 🌱 Always learning cutting-edge technologies
 - 👨‍💻 Experienced in team collaboration and agile development
